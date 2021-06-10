@@ -14,7 +14,7 @@ export default function Categories() {
         <Menu.Item
           name='friends'
         />
-      </Menu>
+      </Menu> 
         </div>
     )
 }

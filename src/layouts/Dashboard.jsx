@@ -16,7 +16,7 @@ export default function Dashboard() {
                     <ProductList></ProductList>
                      </Grid.Column>
                 </Grid.Row>
-            </Grid>
+            </Grid> 
         </div>
     )
 }

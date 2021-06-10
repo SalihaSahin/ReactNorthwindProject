@@ -14,7 +14,7 @@ export default function ProductList() {
   return (
     <div>
       <Table celled>
-        <Table.Header>
+        <Table.Header> 
           <Table.Row>
             <Table.HeaderCell>Ürün Adı</Table.HeaderCell>
             <Table.HeaderCell>Birim Fiyatı</Table.HeaderCell>
