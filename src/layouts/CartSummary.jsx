@@ -12,5 +12,5 @@ export default function CartSummary() {
             </Dropdown.Menu>
           </Dropdown>
         </div>
-    )
+    )  
 }
